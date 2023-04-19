@@ -1,4 +1,4 @@
-# 3-Column Preview Card Component
+# Results Summary
 
 ## Overview
 
